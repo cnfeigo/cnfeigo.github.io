@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://feigo.me/2016/02/19/Setting-up-a-github-page-blog-with-hexo/</loc>
+    
+    <lastmod>2016-02-18T18:21:13.198Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://feigo.me/2016/02/17/hello-world/</loc>
     
     <lastmod>2016-02-17T07:47:34.121Z</lastmod>

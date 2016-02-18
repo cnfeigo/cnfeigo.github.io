@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://feigo.me/"/>
-  <updated>2016-02-17T07:47:34.121Z</updated>
+  <updated>2016-02-18T18:21:13.198Z</updated>
   <id>http://feigo.me/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Setting up a github page blog with hexo</title>
+    <link href="http://feigo.me/2016/02/19/Setting-up-a-github-page-blog-with-hexo/"/>
+    <id>http://feigo.me/2016/02/19/Setting-up-a-github-page-blog-with-hexo/</id>
+    <published>2016-02-18T18:16:36.000Z</published>
+    <updated>2016-02-18T18:21:13.198Z</updated>
+    
+    <content type="html">&lt;p&gt;用github page建了一个个人blog&lt;br&gt;采用hexo做静态网页&lt;br&gt;theme用了&lt;a href=&quot;https://www.haomwei.com/technology/maupassant-hexo.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;maupassant&lt;/a&gt; &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;用github page建了一个个人blog&lt;br&gt;采用hexo做静态网页&lt;br&gt;theme用了&lt;a href=&quot;https://www.haomwei.com/technology/maupassant-hexo.html&quot; target=&quot;_blank&quot; rel=&quot;ex
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
